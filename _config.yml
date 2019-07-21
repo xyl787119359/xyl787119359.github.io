@@ -74,4 +74,4 @@ paginate_path: "page/:num/"
 
 
 
-theme: jekyll-theme-merlot
+theme: jekyll-theme-slate
